@@ -1,5 +1,7 @@
 # Employee Attrition Analysis Dashboard
 
+![Dashboard Image](https://github.com/Dhiraj0107/Employee-Attrition/blob/main/Employee_Attrition_Dashboard.png "Final Dashboard Image")
+
 ## Table of Contents 📑
 - [Overview](##Overview)
 - [Key Features](##Key-Features)
