@@ -3,11 +3,11 @@
 ![Dashboard Image](https://github.com/Dhiraj0107/Employee-Attrition/blob/main/Employee_Attrition_Dashboard.png "Final Dashboard Image")
 
 ## Table of Contents 📑
-- [Overview](##Overview)
-- [Key Features](##Key-Features)
-- [Requirements](##Requirements)
-- [Factors Considered for Attrition Analysis](##Factors-Considered-for-Attrition-Analysis)
-- [Authors](##Authors)
+- [Overview](#Overview)
+- [Key Features](#Key-Features)
+- [Requirements](#Requirements)
+- [Factors Considered for Attrition Analysis](#Factors-Considered-for-Attrition-Analysis)
+- [Authors](#Authors)
 
 
 ## Overview 🎯
