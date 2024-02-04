@@ -10,7 +10,7 @@
 * [Authors](#Authors)
 
 
-## Overview 🎯
+## Overview
 
 This project focuses on creating an interactive and data-driven Power BI dashboard to analyze and determine the causes of employee attrition within the company. By leveraging various data visualization techniques, the dashboard aims to provide valuable insights for HR decision-makers to enhance employee retention strategies.
 
