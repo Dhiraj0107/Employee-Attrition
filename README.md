@@ -4,7 +4,7 @@
 
 ## Table of Contents 📑
 * [Overview](#Overview-)
-* [Key Features](#key-features-)
+* [Key Features](#Key-Features-)
 * [Requirements](#Requirements-)
 * [Factors Considered for Attrition Analysis](#Factors-Considered-for-Attrition-Analysis-)
 * [Authors](#Authors-)
