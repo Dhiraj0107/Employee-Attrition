@@ -14,7 +14,7 @@
 
 This project focuses on creating an interactive and data-driven Power BI dashboard to analyze and determine the causes of employee attrition within the company. By leveraging various data visualization techniques, the dashboard aims to provide valuable insights for HR decision-makers to enhance employee retention strategies.
 
-## Key Features 🛣️
+## Key Features 📝
 
 * **Interactive Dashboard**: Explore and analyze employee attrition data through an intuitive and user-friendly Power BI dashboard.
 * **Diverse Visualizations**: Utilize a range of visualization types, including bar charts, pie charts, line and clustered column charts, and single values, to effectively communicate complex data patterns.
