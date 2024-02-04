@@ -22,9 +22,9 @@ This project focuses on creating an interactive and data-driven Power BI dashboa
 
 ## Requirements 📥
 
-- Download Power BI from here: https://powerbi.microsoft.com/en-us/downloads/
-- The dataset can be accessed from the link: https://github.com/Dhiraj0107/Employee-Attrition/blob/main/HR-Employee-Attrition.csv
-- Clone the repository: https://github.com/Dhiraj0107/Employee-Attrition/tree/main
+- Download Power BI from here: [Power BI Download Website] (https://powerbi.microsoft.com/en-us/downloads/)
+- The dataset can be accessed from the link: [Link for Dataset] (https://github.com/Dhiraj0107/Employee-Attrition/blob/main/HR-Employee-Attrition.csv)
+- Clone the repository: [Link for the repository] (https://github.com/Dhiraj0107/Employee-Attrition/tree/main)
 - Open the file Employee_Attrition_Dashboard.pbix in Power BI to access the dashboard's interactivity.
 
 ## Factors Considered for Attrition Analysis 🚀
